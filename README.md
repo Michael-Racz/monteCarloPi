@@ -5,8 +5,11 @@ Monte Carlo method/experiments- computational algorithms that rely on repeated r
 
 ## File Usage
 EstimateOutput.PNG - Sample output shown after program run
+
 EstimationGraph.png- Sample graph 
+
 MonteCarloPi.py- Python 3 code to make graphs
+
 PlotPoints.png - sample graph of the circle inscribed in square
 
 ## Project Description
